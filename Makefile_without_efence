@@ -1,0 +1,2 @@
+all:
+	gcc -g3 -Wall -std=c99 outOfBound.c -o outOfBound_without_efence
